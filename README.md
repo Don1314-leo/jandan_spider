@@ -15,9 +15,10 @@
     - chromedriver.exe
     - spider_jandan.py
     - README.md
+
 然后执行`python spider_jandan.py`，所有图片将保存在img文件夹中。
 
-鄙人使用如下pakage版本测试通过：
+我使用如下pakage版本测试通过：
 selenium (3.11.0)
 requests (2.18.4)
 
