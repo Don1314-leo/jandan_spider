@@ -10,13 +10,17 @@
 
 #### 准备工作
 测试前请安装好selenium，并在spider_jandan.py当前路径新建img文件夹
-/root
-----/img
-----chromedriver.exe
-----spider_jandan.py
-----README.md
-然后执行`python spider_jandan.py`
+    /root
+    ----/img
+    ----chromedriver.exe
+    ----spider_jandan.py
+    ----README.md
+然后执行`python spider_jandan.py`，所有图片将保存在img文件夹中。
 
-使用如下pakage版本测试通过
+鄙人使用如下pakage版本测试通过：
 selenium (3.11.0)
 requests (2.18.4)
+
+#### 其他信息
+此处感谢，抓取煎蛋妹子的创意完全来自kulovecc同学。
+https://github.com/kulovecc/jandan_spider
