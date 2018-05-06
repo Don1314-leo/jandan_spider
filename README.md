@@ -10,11 +10,11 @@
 
 #### 准备工作
 测试前请安装好selenium，并在spider_jandan.py当前路径新建img文件夹
-    /root
-    ----/img
-    ----chromedriver.exe
-    ----spider_jandan.py
-    ----README.md
+- /root
+    - /img
+    - chromedriver.exe
+    - spider_jandan.py
+    - README.md
 然后执行`python spider_jandan.py`，所有图片将保存在img文件夹中。
 
 鄙人使用如下pakage版本测试通过：
