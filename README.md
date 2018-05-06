@@ -22,5 +22,5 @@ selenium (3.11.0)
 requests (2.18.4)
 
 #### 其他信息
-此处感谢，抓取煎蛋妹子的创意完全来自kulovecc同学。
+此处感谢，抓取煎蛋妹子的创意完全来自kulovecc同学:
 https://github.com/kulovecc/jandan_spider
