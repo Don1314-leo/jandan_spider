@@ -35,7 +35,7 @@ def download_pic(img_url):
     with open(img_dir, 'wb') as f:
         for chunk in r.iter_content(chunk_size=128):
             f.write(chunk)
-    print('Saved %s' % image_name)
+    print(f'{image_name} is saved.')
 
 
 def generate_urls(url_base, browser):
